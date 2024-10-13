@@ -1,7 +1,7 @@
 Hi 👋 My name is Phuong
 =======================
 
-Software engineer passionate about optimizing performance and improving productivity through automation and reusable libraries
+I'm a software engineer passionate about optimizing performance and boosting productivity through automation and the development of reusable libraries.
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [vuhuuphuong@gmail.com](mailto:vuhuuphuong@gmail.com)
